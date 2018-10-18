@@ -1,0 +1,9 @@
+import sys
+
+path = "D:/TD/×ÊÁÏ/lesson12"
+
+path in sys.path or sys.path.append(path)
+
+import shader.py
+
+git
